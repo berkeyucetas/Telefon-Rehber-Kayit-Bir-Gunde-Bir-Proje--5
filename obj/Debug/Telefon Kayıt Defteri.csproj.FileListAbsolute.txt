@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon Kayıt Defteri.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon Kayıt Defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon_Kayıt_Defteri.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon_Kayıt_Defteri.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon Kayıt Defteri.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon Kayıt Defteri.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\bin\Debug\Telefon Kayıt Defteri.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\bin\Debug\Telefon Kayıt Defteri.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\bin\Debug\Telefon Kayıt Defteri.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon Kayıt Defteri.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Telefon Kayıt Defteri\Telefon Kayıt Defteri\obj\Debug\Telefon Kayıt Defteri.pdb
